@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on: backend development<br>🌱 I’m currently learning: express.js mongoose etc.<br>💬 Ask me about:backend techs.<br>⚡ Fun fact:taylor swift is the best
 
 
 # 💻 Tech Stack:
